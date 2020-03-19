@@ -1,5 +1,19 @@
 # Changelog
 
+### [0.28.3](https://www.github.com/googleapis/java-phishingprotection/compare/v0.28.2...v0.28.3) (2020-03-19)
+
+
+### Dependencies
+
+* update core dependencies ([#68](https://www.github.com/googleapis/java-phishingprotection/issues/68)) ([f6bc080](https://www.github.com/googleapis/java-phishingprotection/commit/f6bc080c8a6d32a0287678353c7b245b50affb57))
+* update dependency com.google.protobuf:protobuf-java to v3.11.4 ([762c5bd](https://www.github.com/googleapis/java-phishingprotection/commit/762c5bdcdfe1f3040418ffba20d9f2f72f1f4c5b))
+* update dependency io.grpc:grpc-bom to v1.27.1 ([05614ac](https://www.github.com/googleapis/java-phishingprotection/commit/05614ac1823e8231f391f16acbda64ac127f4483))
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([f783c29](https://www.github.com/googleapis/java-phishingprotection/commit/f783c292ad5083b3bc4dfcadb55151b50bfa93d2))
+
 ### [0.28.2](https://www.github.com/googleapis/java-phishingprotection/compare/v0.28.1...v0.28.2) (2020-02-04)
 
 
